@@ -1,0 +1,28 @@
+
+body{
+    background-color: #cfbc8b45
+}
+h1 {
+    text-align:center;
+    color:#B28765
+}
+h2 {
+    text-align:right;
+}
+h4{
+    text-align:left;
+}
+p {
+   text-align:left;
+   
+}
+#video{
+    text-align:left;
+}
+figure{
+    text-align:center;
+}
+.nome{
+    text-align:center;
+}
+    
